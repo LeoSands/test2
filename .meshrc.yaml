@@ -1,0 +1,5 @@
+sources:
+  - name: CountriesGraphQL
+    handler:
+      graphql:
+        endpoint: https://countries.trevorblades.com/graphql
